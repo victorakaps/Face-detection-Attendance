@@ -4,7 +4,7 @@ import face_recognition
 import os
 from datetime import datetime
 
-path = "attendance_img"
+path = "attendee_img"
 images = []
 classNames = []
 
